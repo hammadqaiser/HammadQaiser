@@ -1,4 +1,4 @@
-### Learning AI & Finance
+### I'm a human.
 <!--
 **HammadQaiser/HammadQaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
