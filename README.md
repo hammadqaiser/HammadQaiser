@@ -1,4 +1,5 @@
 ## Learning AI & Finance
+### Founder of SadadAI
 <!--
 **HammadQaiser/HammadQaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
