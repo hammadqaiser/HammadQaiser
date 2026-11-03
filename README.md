@@ -2,7 +2,7 @@
 
 I'm a human. It seems worth saying these days.
 
-I study Computer and Information Sciences at PIEAS in Islamabad. I'm interested in security for LLM agents, multi-agent decision-making, and machine learning that runs in production. Currently, most of my time goes into one question: how do you let
+I'm interested in security for LLM agents, multi-agent decision-making, and machine learning that runs in production. Currently, most of my time goes into one question: how do you let
 AI agents trade without letting them anywhere near the money?
 
 ### SlashAgents: A policy kernel for LLM agents
@@ -10,7 +10,7 @@ AI agents trade without letting them anywhere near the money?
 In the 1970s, early computers let every program touch all of memory, so one bad program could take down the machine. Computing only
 scaled once a kernel separated programs from what they could touch. Most AI agents today are back in that era: an LLM holds a signing key or an execution tool, guarded by a prompt. SlashAgents moves the models to user space. I call it the Ring 0 moment for autonomous finance.
 
-A few LLM agents look at crypto markets, argue with each other about whether to trade, and pass their best idea to a
+<!-- A few LLM agents look at crypto markets, argue with each other about whether to trade, and pass their best idea to a
 Rust program I wrote. The Rust program checks it against limits the user signed with their own wallet, and usually it
 says no. Of 78 decisions so far, 81% were rejected or put on hold. The agents have opinions. They don't have the keys.
 
@@ -19,7 +19,7 @@ the sneaky sentences myself: 57 prompt-injection attacks, fed to a model I had d
 order past the limits.
 
 It has made 50 real transactions on Hyperliquid (48 on testnet, 2 on mainnet). You don't have to believe me: every one
-is on [Hyperliquid's public explorer](https://app.hyperliquid-testnet.xyz/explorer/address/0xB251AaA073e13009c58472ae3Ac91D7b19da7b28).
+is on [Hyperliquid's public explorer](https://app.hyperliquid-testnet.xyz/explorer/address/0xB251AaA073e13009c58472ae3Ac91D7b19da7b28). -->
 The code is private, but [slashagents-overview](https://github.com/hammadqaiser/slashagents-overview) explains how it
 works.
 
