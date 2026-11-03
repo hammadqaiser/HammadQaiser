@@ -1,4 +1,4 @@
-## Hi, I'm Hammad Qaiser.
+## Hi, I'm Hammad
 
 I'm a human. It seems worth saying these days.
 
