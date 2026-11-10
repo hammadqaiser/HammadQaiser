@@ -2,8 +2,9 @@
 
 I'm a human. It seems worth saying these days.
 
-I'm interested in security for LLM agents, multi-agent decision-making, and machine learning that runs in production. Currently, most of my time goes into one question: how do you let
-AI agents trade without letting them anywhere near the money?
+In the age of AI, direction is more important than speed.
+
+I'm interested in security for LLM agents, multi-agent decision-making, and machine learning that runs in production. Currently, most of my time goes into one question: how to build and design a policy kernel for LLM agents?
 
 ### SlashAgents: A policy kernel for LLM agents
 
@@ -23,7 +24,7 @@ is on [Hyperliquid's public explorer](https://app.hyperliquid-testnet.xyz/explor
 The code is private, but [slashagents-overview](https://github.com/hammadqaiser/slashagents-overview) explains how it
 works.
 
-Is it profitable? Not yet. Right now it's mostly very good at not trading.
+Is it profitable? Not yet. Right now it's mostly very good at not trading. Maybe because trading is not my direction for now. 
 
 ### Other things I've made
 
